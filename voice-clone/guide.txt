@@ -1,0 +1,3 @@
+- Using colab notebook to generate speaker.npz as speaker features
+- Add this .npz to bark/assets/prompts/ 
+- Run clone_voice without generate .npz
